@@ -1,7 +1,7 @@
 # Simple mySQL Library
 
 ### *Objective*
-The objective 
+The objective of this library is to simplify and streamline the database interaction process, by offering functions that have minimal and consistent inputs and removes the need for writing SQL syntax commands.  
 
 ### *Library to be installed*
 - sudo pip install mysql-connector-python --> (Used for interaction with mySQL database)
