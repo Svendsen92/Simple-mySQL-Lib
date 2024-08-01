@@ -4,7 +4,7 @@ from mySQL_DatabaseLib import mySQL_DatabaseLib # type: ignore
 host = "localhost"
 user = "root"
 database = "exampleDB"
-password = "Dino1@dlgnet.dk"
+password = "xxxxxxxx"
 tableName = "example_table"
 
 # Create database object
